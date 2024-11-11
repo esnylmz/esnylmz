@@ -10,7 +10,7 @@ I'm a Computer Engineer interested in NLP, LLMs and software development
 - 🔭 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,anaconda,vscode,cs,dotnet,bootstrap,css,HTML,js " />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,anaconda,vscode,cs,dotnet,bootstrap,css,js " />
   </a>
 </p>
 
