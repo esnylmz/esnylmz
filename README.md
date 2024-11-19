@@ -5,7 +5,7 @@
 -->
 I'm a Computer Engineer interested in NLP, LLMs and software development
 
-![hippo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY5dzIzM2dmZzQ3Y3FhMDludzJvNDVrNWJ2MWY2dHRob3g2ZDJxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dbtDDSvWErdf2/giphy.gif)
+<img src="https://i.giphy.com/media/dbtDDSvWErdf2/giphy.gif" width="300" height="200" alt="hippo gif">
 
 - 🔭 Languages and Tools:
 <p align="center">
